@@ -2,7 +2,7 @@
 - 👀 I’m interested in COOOOODE" and ADS
 - 🌱 I’m currently learning Analysis and systems development
 - 💞️ I’m looking to collaborate on DEEV :) </>
-- 📫 How to reach me https://www.instagram.com/lucasbortoleti/  
+- 📫 How to reach me https://www.instagram.com/lucasbortoleti/  and  https://www.linkedin.com/in/lucas-bortoleti-melo-b75691138
 
 <!---
 lucasbortoleti/lucasbortoleti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
